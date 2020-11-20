@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'flyway-jooq-test'
-include('app', 'list', 'utilities')
+include('app', 'list', 'utilities', 'db-jooq-gen', 'db-jooq', 'db-migration')
